@@ -1,7 +1,7 @@
 <h1 align="center">You aren't a hollow, are you? Greetings... my name is Avinash.</h1> 
 <h3 align="center">- Charting unknown lands with code as my blade. ( •̀ ω •́ )✧</h3><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey" alt="avinashxdubey" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey&cache_bust=1" alt="avinashxdubey" /></a> </p>
 
 - Ventured through unknowns and built [ResumiFy](https://resumify-woad.vercel.app/)
   

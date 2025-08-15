@@ -118,6 +118,6 @@
 <div align="center">
     <h2><i>Look upon my work. A serpent, devouring the past, winding through forgotten days...</h2>
     <p align="center">
-    <img src="https://github.com/AvinashxDubey/AvinashXDubey/blob/output/snake-dark.svg">
+    <img src="https://github.com/AvinashxDubey/AvinashXDubey/blob/output/snake-dark.svg?v=1">
     </p>
 </div>

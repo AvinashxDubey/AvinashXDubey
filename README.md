@@ -111,9 +111,9 @@
   </div>
 </div><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=nightowl" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=avinashxdubey&theme=nightowl&border_radius=25.5" alt="avinashxdubey" /></p><br>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=avinashxdubey&theme=gruvbox&border_radius=25.5" alt="avinashxdubey" /></p><br>
 
 <div align="center">
     <h2><i>Look upon my work. A serpent, devouring the past, winding through forgotten days...</h2>

@@ -119,6 +119,7 @@
     <h2><i>Look upon my work. A serpent, devouring the past, winding through forgotten days...</h2>
     <p align="center">
     <img src="https://raw.githubusercontent.com/AvinashxDubey/AvinashxDubey/output/snake-light.svg#gh-light-mode-only" alt="snake-light-mode">
+<!--       we'll add dark mode later on -->
 <!--     <img src="https://raw.githubusercontent.com/AvinashxDubey/AvinashxDubey/output/snake-dark.svg#gh-dark-mode-only" alt="snake-dark-mode"> -->
     </p>
 </div>

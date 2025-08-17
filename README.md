@@ -18,7 +18,7 @@
  <div align="center">
     <h2><i>The Hollow do not rest, nor do I. Amidst errors and edge cases, I persist. Each problem solved, a soul reclaimed.</h2>
    <p>
-     <img alt="leetcode-card" src="https://leetcard.jacoblin.cool/AvinashDubey8780?theme=light&font=Average%20Sans&ext=heatmap">
+     <img alt="leetcode-card" src="https://leetcard.jacoblin.cool/AvinashDubey8780?theme=dark&font=Average%20Sans&ext=heatmap">
    </p>
  </div>
 
@@ -111,15 +111,15 @@
   </div>
 </div><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=nightowl" /></p><br>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=avinashxdubey" alt="avinashxdubey" /></p><br>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=avinashxdubey&theme=nightowl&border_radius=25.5" alt="avinashxdubey" /></p><br>
 
 <div align="center">
     <h2><i>Look upon my work. A serpent, devouring the past, winding through forgotten days...</h2>
-    <p align="center">
-    <img src="https://raw.githubusercontent.com/AvinashxDubey/AvinashxDubey/output/snake-light.svg#gh-light-mode-only" alt="snake-light-mode">
-<!--       we'll add dark mode later on for now its same for both -->
-<!--     <img src="https://raw.githubusercontent.com/AvinashxDubey/AvinashxDubey/output/snake-dark.svg#gh-dark-mode-only" alt="snake-dark-mode"> -->
-    </p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashxDubey/AvinashxDubey/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashxDubey/AvinashxDubey/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AvinashxDubey/AvinashxDubey/output/github-contribution-grid-snake.svg">
+    </picture>
 </div>

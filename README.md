@@ -1,7 +1,7 @@
 <h1 align="center">You aren't a hollow, are you? Greetings... my name is Avinash.</h1> 
 <h3 align="center">- Charting unknown lands with code as my blade. ( •̀ ω •́ )✧</h3><br>
 
-<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey&cache_bust=1&theme=gruvbox" alt="avinashxdubey" /> </p> -->
+<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey&theme=gruvbox&cache_bust=2" alt="avinashxdubey" /> </p> -->
 
 - Ventured through unknowns and built [ResumiFy](https://resumify-tool.vercel.app)
   
@@ -113,7 +113,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=avinashxdubey&theme=gruvbox&border_radius=25.5" alt="avinashxdubey" /></p><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashxdubey&theme=gruvbox" /></p><br>
 
 <div align="center">
     <h2><i>Look upon my work. A serpent, devouring the past, winding through forgotten days...</h2>

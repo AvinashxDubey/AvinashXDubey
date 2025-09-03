@@ -1,10 +1,10 @@
 <!-- <h1 align="center">You aren't a hollow, are you? Greetings... my name is Avinash.</h1> -->
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&width=600&size=25&repeat=false&lines=You+aren't+a+hollow,+are+you?+Greetings,+my+name+is+Avinash" alt="Typing SVG" /></a><br>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&width=600&size=25&repeat=false&lines=You+aren't+a+hollow,+are+you?+Greetings,+my+name+is+Avinash&ts=${Date.now()}" alt="Typing SVG" /></a><br>
 </h1>
 <!-- <h3 align="center">- Charting unknown lands with code as my blade. ( •̀ ω •́ )✧</h3><br> -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&size=25&width=600&repeat=false&lines=-+Charting+unknown+lands+with+code+as+my+blade.+(•̀+ω+•́)+✧" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&size=25&width=600&repeat=false&lines=-+Charting+unknown+lands+with+code+as+my+blade.+(•̀+ω+•́)+✧&ts=${Date.now()}" alt="Typing SVG" />
   </a>
 </div>
 

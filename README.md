@@ -119,7 +119,7 @@
   </div>
 </div><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br> -->
 <p><img src="https://github-readme-streak-avinashxdubey.vercel.app?user=AvinashxDubey&theme=gruvbox" alt="GitHub Streak" /></a></p>
 
 

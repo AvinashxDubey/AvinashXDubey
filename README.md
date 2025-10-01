@@ -1,13 +1,13 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&width=600&size=25&repeat=false&lines=You+aren't+a+hollow,+are+you?+Greetings,+my+name+is+Avinash" alt="Typing SVG" /></a><br>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&width=600&size=25&repeat=false&lines=You+aren't+a+hollow,+are+you?+Greetings,+my+name+is+Avinash" alt="Typing SVG" /></a><br>
 </h1>
 
-<div align="center">
+<div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&size=25&width=600&repeat=false&lines=-Charting+unknown+lands+with+code+as+my+blade.+(•̀+ω+•́)+✧" alt="Typing SVG" />
   </a>
-  <p>🗡️  Summon Me For **Front-end and backend sorcery, single-page quests, and modern UI/UX alchemy.**</p>
- <p>✒️  Lore Fragment: **I debug better with music. These ethereal echoes heal more bugs than caffeine.**</p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM0aHAwNDl0eGNyZ3p2andxbzJsemsxa28xZnhlbTNscTJyNXFlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jz47ZIBP0YWAnByQl0/giphy.gif" alt="avatar-gif">
 </div>
+
 
 ---
 

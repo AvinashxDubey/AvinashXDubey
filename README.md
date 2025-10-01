@@ -1,43 +1,41 @@
-<!-- <h1 align="center">You aren't a hollow, are you? Greetings... my name is Avinash.</h1> -->
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&width=600&size=25&repeat=false&lines=You+aren't+a+hollow,+are+you?+Greetings,+my+name+is+Avinash" alt="Typing SVG" /></a><br>
 </h1>
-<!-- <h3 align="center">- Charting unknown lands with code as my blade. ( •̀ ω •́ )✧</h3><br> -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&size=25&width=600&repeat=false&lines=-+Charting+unknown+lands+with+code+as+my+blade.+(•̀+ω+•́)+✧" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&color=F5F5F5&size=25&width=600&repeat=false&lines=-Charting+unknown+lands+with+code+as+my+blade.+(•̀+ω+•́)+✧" alt="Typing SVG" />
   </a>
+  <p>🗡️  Summon Me For **Front-end and backend sorcery, single-page quests, and modern UI/UX alchemy.**</p>
+ <p>✒️  Lore Fragment: **I debug better with music. These ethereal echoes heal more bugs than caffeine.**</p>
 </div>
 
+---
 
- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey&theme=gruvbox&cache_bust=2" alt="avinashxdubey" /> </p> 
-
-- Ventured through unknowns and built [ResumiFy](https://resumify-tool.vercel.app)
-  
-- Descended into the depths of device management and forged **DriveSync**
-  
-- Faced the blank screen abyss and emerged with **MediHub**
-  
-- Currently Leveling Up In **ReactJS, Express.js, SpringBoot and the dark arts of clean architecture.**
-
- 🗡️  Summon Me For **Front-end and backend sorcery, single-page quests, and modern UI/UX alchemy.**
-
- ✒️  Lore Fragment: **I debug better with music. These ethereal echoes heal more bugs than caffeine.** <br>
-
- <div align="center">
+<div align='center'>
     <h2><i>The Hollow do not rest, nor do I. Amidst errors and edge cases, I persist. Each problem solved, a soul reclaimed.</h2>
+</div>
+
+<details>
+  <summary>GitHub Stats</summary>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br>
+<p><img src="https://github-readme-streak-avinashxdubey.vercel.app?user=AvinashxDubey&theme=gruvbox" alt="GitHub Streak" /></a></p>
+</details>
+
+<details>
+   <summary>Leetcode Stats</summary>
    <p>
      <img alt="leetcode-card" src="https://leetcard.jacoblin.cool/AvinashDubey8780?theme=dark&font=Average%20Sans&ext=heatmap">
    </p>
- </div>
+ </details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="margin4px">
-<a href="https://linkedin.com/in/avinashxdubey" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashxdubey" height="30" width="40" /></a>     
-&nbsp;&nbsp;<a href="https://www.leetcode.com/avinashdubey8780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinashdubey8780" height="30" width="40" /></a>
-</p>
+<details>
+  <summary>GitHub Trophies</summary>
+   <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey&theme=gruvbox&cache_bust=2" alt="avinashxdubey" /> </p> 
+</details>
 
 <div>
-  <h2 align="center"><i>These are the relics I’ve mastered in my long journey through the lands of code.</h2>
+  <details>
+    <summary><i>These are the relics I’ve mastered in my long journey through the lands of code.</summary>
   <div align="left">
   <h3>Languages: </h3>
   <p>
@@ -117,11 +115,18 @@
     </a>
   </p>
   </div>
-</div><br>
+  </details>
+</div>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br>
-<p><img src="https://github-readme-streak-avinashxdubey.vercel.app?user=AvinashxDubey&theme=gruvbox" alt="GitHub Streak" /></a></p>
+<details>
+  <summary>Connect with me:</summary>
+  <p align="left" style="margin4px">
+  &nbsp;&nbsp; <a href="https://linkedin.com/in/avinashxdubey" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashxdubey" height="30" width="40" /></a>     
+  &nbsp;&nbsp;<a href="https://www.leetcode.com/avinashdubey8780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinashdubey8780" height="30" width="40" /></a>
+  </p>
+</details>
 
+---
 
 <div align="center">
     <h2><i>Look upon my work. A serpent, devouring the past, winding through forgotten days...</h2>

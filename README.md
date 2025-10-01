@@ -16,6 +16,11 @@
 </div>
 
 <details>
+  <summary>GitHub Trophies</summary>
+   <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey&theme=gruvbox&cache_bust=2" alt="avinashxdubey" /> </p> 
+</details>
+
+<details>
   <summary>GitHub Stats</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br>
 <p><img src="https://github-readme-streak-avinashxdubey.vercel.app?user=AvinashxDubey&theme=gruvbox" alt="GitHub Streak" /></a></p>
@@ -27,11 +32,6 @@
      <img alt="leetcode-card" src="https://leetcard.jacoblin.cool/AvinashDubey8780?theme=dark&font=Average%20Sans&ext=heatmap">
    </p>
  </details>
-
-<details>
-  <summary>GitHub Trophies</summary>
-   <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey&theme=gruvbox&cache_bust=2" alt="avinashxdubey" /> </p> 
-</details>
 
 <div>
   <details>

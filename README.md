@@ -29,7 +29,7 @@
 <details>
    <summary>Leetcode Stats</summary>
    <p>
-     <img alt="leetcode-card" src="https://leetcard.jacoblin.cool/AvinashDubey8780?theme=dark&font=Average%20Sans&ext=heatmap">
+     <img alt="leetcode-card" src="https://leetcard.jacoblin.cool/avinashxdubey?theme=dark&font=Average%20Sans&ext=heatmap">
    </p>
  </details>
 

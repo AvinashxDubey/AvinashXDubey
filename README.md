@@ -15,14 +15,14 @@
     <h2><i>The Hollow do not rest, nor do I. Amidst errors and edge cases, I persist. Each problem solved, a soul reclaimed.</h2>
 </div>
 
-<details>
+<!-- <details>
   <summary>GitHub Trophies</summary>
    <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey&theme=gruvbox&cache_bust=2" alt="avinashxdubey" /> </p> 
-</details>
+</details> -->
 
 <details>
   <summary>GitHub Stats</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br>
+  <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en&cache_seconds=3600&theme=gruvbox" /></p><br> -->
 <p><img src="https://github-readme-streak-avinashxdubey.vercel.app?user=AvinashxDubey&theme=gruvbox" alt="GitHub Streak" /></a></p>
 </details>
 

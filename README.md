@@ -122,7 +122,7 @@
   <summary>Connect with me:</summary>
   <p align="left" style="margin4px">
   &nbsp;&nbsp; <a href="https://linkedin.com/in/avinashxdubey" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinashxdubey" height="30" width="40" /></a>     
-  &nbsp;&nbsp;<a href="https://www.leetcode.com/avinashdubey8780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinashdubey8780" height="30" width="40" /></a>
+  &nbsp;&nbsp;<a href="https://www.leetcode.com/avinashxdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinashxdubey" height="30" width="40" /></a>
   </p>
 </details>
 
